@@ -23,4 +23,4 @@
     <img width="150px" src="icons/correios.jpg" />
 </div> <br/>
 
-<a href="https://guidev1.github.io/validadoDeCep/">🌍 Visualizar página</a>
+<a target="_blank" href="https://guidev1.github.io/validadoDeCep/">🌍 Visualizar página</a>
