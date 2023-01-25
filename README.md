@@ -18,4 +18,9 @@
 
  <img width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+  <img width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+  <img width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="150px" src="icons/correios.jpg" />
+</div> <br/>
+
+<a href="https://guidev1.github.io/validadoDeCep/">🌍 Visualizar página</a>
