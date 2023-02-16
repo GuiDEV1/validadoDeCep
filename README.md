@@ -2,7 +2,7 @@
 
 <div align="center">
     <img height="500px" src="icons/vldHome.PNG" />
-</div>  <br/>
+</div>  <br/> <hr/>
 
 <p align="center">
    Validado de cep. Que simula um cadastro de pagamento em etapas para um visual mais atraente. <br/>
